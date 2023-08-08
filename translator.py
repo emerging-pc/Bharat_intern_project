@@ -1,4 +1,6 @@
-#PROJECT 01
+#Task-3
+#Translator App
+#It translates the English text to Spanish langauge.
 
 from googletrans import Translator
 
